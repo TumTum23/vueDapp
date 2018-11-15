@@ -9,7 +9,7 @@
     <h4>{{ showBlockNumber }}</h4>
     <button type="button" @click="showGasPrice()">Get Gas Price</button>
     <h4>{{ gasPrice }}</h4>
-    <button type="button" @click="balance()">Get Balance</button>
+    <button type="button" @click="balance()">Get Bal</button>
     <h4>{{ newBalance }}</h4>
   </div>
 </template>
